@@ -15,16 +15,16 @@ writing **clean, maintainable code,** implementing **best practices,** and stayi
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,vue,nuxtjs,astro,ts,js,html,css&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,vue,nuxtjs,astro,ts,js,html,css&theme=dark)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,py,fastapi,django,graphql&theme=dark)
 
 ### Database
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark)
 
 ### DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,gcp,firebase,docker,kubernetes,nginx,git,jenkins,github,gitlab&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,gcp,firebase,docker,kubernetes,nginx,git,jenkins,github,gitlab&theme=dark)
