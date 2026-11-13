@@ -8,14 +8,17 @@
 
 ## PROFESSIONAL SUMMARY
 
-Full-stack developer with **5+ years of experience** in designing and building **scalable, high-performance web applications.** Expertise in **React.js, Next.js, NestJS, and FastAPI**, with a proven track record in **SEO optimization, system efficiency improvements**, and leading projects from ideation to deployment. Strong experience in **DevOps, cloud technologies, and infrastructure scalability**, working with **Docker, Kubernetes, AWS, and Google Cloud Platform.** Passionate about
-writing **clean, maintainable code,** implementing **best practices,** and staying ahead in **continuous learning and development.**
+Senior Full-Stack Engineer with **6+ years of experience** architecting high-throughput web systems, multi-tenant architectures, and AI-integrated applications. Strong expertise in TypeScript ecosystems **(React, Next.js, NestJS)** and Python **(FastAPI)**, with practical experience deploying **pre-trained model inference** (Faster-Whisper, Pyannote, Hugging Face Transformers) and integrating commercial **LLM APIs** (OpenAI, Gemini). Hands-on **cloud and DevOps** experience on **GCP** (Compute Engine GPU VMs, Cloud Run, Cloud SQL, Cloud Storage) and **AWS** (EC2, Lambda, RDS, S3, CloudFront), with containerized deployments using **Docker, Nginx, and CI/CD**. Proven track record as primary Technical Liaison for international stakeholders across South Korea, Singapore, and Europe, managing end-to-end delivery from database architecture and AI service broker design to cloud deployment and production containerization.
 
 ## TECHNICAL SKILLS
 
+### Languages
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css&theme=dark)
+
 ### Frontend
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,vue,nuxtjs,astro,ts,js,html,css&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,gatsby,vue,nuxtjs,astro,redux,tailwind&theme=dark)
 
 ### Backend
 
@@ -27,4 +30,4 @@ writing **clean, maintainable code,** implementing **best practices,** and stayi
 
 ### DevOps
 
-![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,gcp,firebase,docker,kubernetes,nginx,git,jenkins,github,gitlab&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,aws,gcp,cloudflare,firebase,docker,kubernetes,nginx,git,jenkins,github,gitlab&theme=dark)
